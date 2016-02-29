@@ -1,0 +1,7 @@
+source/server/select_utils.o: source/server/select_utils.c \
+ include/server/player.h include/server/time_utils.h include/server/inv.h \
+ include/server/node.h include/server/map.h include/server/action.h \
+ include/server/parser.h include/server/client.h \
+ include/server/accept_client.h include/server/circular_buffer.h \
+ include/server/game.h include/server/player.h include/server/egg.h \
+ include/server/option.h include/server/utils.h include/server/utils.h

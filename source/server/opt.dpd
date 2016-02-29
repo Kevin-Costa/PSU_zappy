@@ -1,0 +1,1 @@
+source/server/opt.o: source/server/opt.c include/server/opt.h

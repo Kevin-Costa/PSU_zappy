@@ -1,0 +1,3 @@
+tmpGraph/init.o: tmpGraph/init.c tmpGraph/include/color.h \
+  include/server/graphic.h include/server/../../include/server/map.h \
+  include/server/inv.h include/server/node.h

@@ -1,0 +1,3 @@
+tmpGraph/draw.o: tmpGraph/draw.c include/server/graphic.h \
+  include/server/../../include/server/map.h include/server/inv.h \
+  include/server/node.h
